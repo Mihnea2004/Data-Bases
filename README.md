@@ -1,1 +1,2 @@
-# Data-Bases
+This project consists of creating a web application in Oracle APEX for a courier company. Before designing the application pages, I created five tables and populated them with meaningful data, thus building a complete database. The application allows users to view warehouses, routes, packages, courier deliveries, warehouse loads, add a new package, as well as generate courier statistics and report the fee per package. Each of these operations can be easily accessed through the interactive menu on the left side.
+As a final observation, the documentation and implementation is in Romanian, as required at the course.
